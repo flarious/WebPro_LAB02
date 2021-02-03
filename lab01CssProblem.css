@@ -3,6 +3,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Big Shoulders Display', cursive;
+    font-size: large;
 }
 /*Make the <h1> elements blue*/
 h1 {
